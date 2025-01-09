@@ -1,2 +1,5 @@
-#Removing human figures on LIDAR
-##Abstract The use of Light Detection and Ranging (LIDAR) sensors has increased in autonomous robots and vehicles. Therefore, algorithms capable of processing the resulting 3D point cloud data are necessary. In this project, we used Point Transformer V3 and the Waymo Open Dataset to develop a segmentation model that specifically targets humans. The ultimate goal is to next remove human figures from data captured by an Ouster LIDAR. This task is part of a broader development of a student-designed autonomous rover for the European Rover Challenge. During the competition, referees move freely, often interfering with obstacle detection systems. ##Demonstrations This will be soon added
+# Removing human figures on LIDAR
+## Abstract 
+The use of Light Detection and Ranging (LIDAR) sensors has increased in autonomous robots and vehicles. Therefore, algorithms capable of processing the resulting 3D point cloud data are necessary. In this project, we used Point Transformer V3 and the Waymo Open Dataset to develop a segmentation model that specifically targets humans. The ultimate goal is to next remove human figures from data captured by an Ouster LIDAR. This task is part of a broader development of a student-designed autonomous rover for the European Rover Challenge. During the competition, referees move freely, often interfering with obstacle detection systems. 
+## Demonstrations 
+This will be soon added.
